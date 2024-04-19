@@ -1,3 +1,4 @@
+import Jumbotron from "../../molecules/Jumbotron";
 import Navbar from "../../molecules/Navbar";
 import ScoreBoard from "../../molecules/ScoreBoard";
 
@@ -6,6 +7,7 @@ const Landingpage = () => {
     <div className="h-screen bg-white">
       <Navbar />
       <ScoreBoard />
+      <Jumbotron />
     </div>
   );
 };

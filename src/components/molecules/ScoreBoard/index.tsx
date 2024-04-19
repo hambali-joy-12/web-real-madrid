@@ -38,7 +38,7 @@ const ScoreBoard = () => {
         </div>
       </div>
 
-      <button className="border-2 border-blue-50/20 font-semibold hover:bg-white text-sm hover:text-indigo-600 w-full rounded-lg py-1 mt-5 transition-all duration-700">
+      <button className="border-2 border-blue-50/20 font-semibold hover:bg-white text-smhover:text-indigo-600 w-full     rounded-lg py-1 mt-5 transition-all duration-700 hover:text-indigo-600">
         Follow The Match
       </button>
     </div>
