@@ -32,7 +32,7 @@ export const NEWS_ITEM = [
   },
 
   {
-    img: 'https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--032fac65-9782-40d4-97ab-6bf7b528678e/ND_FUTBOL_CHAMPIONS_CITY_RM_ALEGRIA_GRUPO_FINAL_1PC7283.app.png?preferwebp=true&width=252',
+    img: 'https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--032fac65-9782-40d4-97ab-6bf7b528678e/ND_FUTBOL_CHAMPIONS_CITY_RM_ALEGRIA_GRUPO_FINAL_1PC7283.app.png?preferwebp=true&width=350',
     title: '1(3)-1(4): Clasificados para semifinales de la Champions',
   },
 
@@ -69,5 +69,5 @@ export const NEWS_ITEM = [
   {
     img: 'https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--c3bb88be-ecca-4216-adef-c4a3a0b76147/ND_RM_VIRTUS_ALEGRIA_HEZONJA_LLULL_1VC3201.app.png?preferwebp=true&width=350',
     title: ' El Real Madrid se enfrentará en el playoff de la Euroliga a Baskonia o Virtus Bolonia ',
-  }
+  },
 ];
