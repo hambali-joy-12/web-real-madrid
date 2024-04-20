@@ -5,3 +5,7 @@
 /* * {
   border: 1px sodid black;
 } */
+
+section {
+  @apply m-5 lg:mx-20;
+}

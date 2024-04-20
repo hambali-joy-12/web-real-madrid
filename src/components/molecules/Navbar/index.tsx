@@ -2,7 +2,7 @@ import { useState } from "react";
 import { CiUser } from "react-icons/ci";
 import { MdMoreVert } from "react-icons/md";
 import { RxHamburgerMenu } from "react-icons/rx";
-import Navaitems from "../../atoms/Navaitems";
+import Navaitems from "../../atoms/NavaiTems";
 import { NAV_ITEM } from "../../../constant/const";
 
 const Navbar = () => {
